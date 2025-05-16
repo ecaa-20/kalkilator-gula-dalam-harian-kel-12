@@ -59,7 +59,7 @@ def main():
         }
 
         h1, h2, h3, h4, h5, h6, p, label, .css-1cpxqw2, .css-qrbaxs {
-            color: white !important;
+            color: BLACK !important;
         }
 
         .kalkulator-container {
@@ -71,7 +71,7 @@ def main():
         }
 
         .kalkulator-container label, .kalkulator-container span, .kalkulator-container p {
-            color: white !important;
+            color: BLACK !important;
         }
         </style>
     """, unsafe_allow_html=True)
